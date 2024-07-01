@@ -1,6 +1,6 @@
 This GitHub repository contains the Project solutions to Intro To SQL: Querying and managing data by Khan Academy: https://www.khanacademy.org/computing/computer-programming/sql
 
-The coursework included:
+The coursework includes:
 
 SQL Basics- Project: Design a store database
 
